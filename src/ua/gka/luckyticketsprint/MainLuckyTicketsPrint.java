@@ -1,6 +1,6 @@
-package ua.gka.luckyticket2;
+package ua.gka.luckyticketsprint;
 
-public class LuckyTicket2 {
+public class MainLuckyTicketsPrint {
     public static void main(String[] args) {
         int countOfNumbers = 6;
         String s = "%0" + countOfNumbers + "d%n";

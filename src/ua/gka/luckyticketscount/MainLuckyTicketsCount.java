@@ -1,8 +1,8 @@
-package ua.gka.luckyticket;
+package ua.gka.luckyticketscount;
 
 import java.util.*;
 
-public class LuckyTicket {
+public class MainLuckyTicketsCount {
     public static void main(String[] args) {
         int countOfNumbers = 6;
         int halfCountOfNumbers = countOfNumbers / 2;
